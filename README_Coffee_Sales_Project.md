@@ -55,7 +55,7 @@ GROUP BY product_category
 ORDER BY Total_Sales DESC;
 ```
 
-*(More queries available in `SQL_Queries.sql`)*
+*(More queries available in `Project_presentation.pdf`)*
 
 ---
 
@@ -83,16 +83,15 @@ ORDER BY Total_Sales DESC;
 ## 📌 Dashboard Preview
 
 <p align="center">
-  <img src="A_Power_BI_dashboard_titled_&quot;COFFEE_SHOP_SALES&quot;_pr.png" alt="Coffee Sales Power BI Dashboard" width="800"/>
+  <img src="COffee_sales_Dashboard.png" alt="Coffee Sales Power BI Dashboard" width="800"/>
 </p>
 
 ---
 
 ## 📁 Files Included
 
-- `SQL_Queries.sql` – Full SQL query set for data analysis
-- `Coffee_Sales_Analysis.pbix` – Power BI dashboard file *(optional if you want to upload)*
-- `dashboard_image.png` – Enhanced visual preview of the dashboard
+- `Project_Presentation` – Full SQL query set for data analysis
+- `Coffee_sales_Dashboard.png` – Enhanced visual preview of the dashboard
 
 ---
 

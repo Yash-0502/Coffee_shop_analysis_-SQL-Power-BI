@@ -83,7 +83,7 @@ ORDER BY Total_Sales DESC;
 ## 📌 Dashboard Preview
 
 <p align="center">
-  <img src="COffee_sales_Dashboard.png" alt="Coffee Sales Power BI Dashboard" width="800"/>
+  <img src="Coffee_sales_Dashboard.png" alt="Coffee Sales Power BI Dashboard" width="800"/>
 </p>
 
 ---
